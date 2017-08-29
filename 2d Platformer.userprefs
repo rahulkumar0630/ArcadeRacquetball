@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Res.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/paddlemovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player2Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Livesforhardmode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Lives.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hardmode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FastMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EndGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
